@@ -6,7 +6,7 @@
 ---
 
 ## 1. Danh sách sản phẩm thực hành
-- `BaoCao_ThucHanh05.pdf`: Tài liệu báo cáo văn bản hợp tác nhóm về "Ứng dụng công nghệ số trong học tập".
+- `TH5_NV1.1.pdf` và `TH5_NV1.2.pdf`: Tài liệu báo cáo văn bản cá nhân và hợp tác nhóm về chủ đề "Ứng dụng công nghệ số trong học tập".
 - `lich_su_chinh_sua_docs.png`: Ảnh chụp màn hình Lịch sử phiên bản (Version History) trên Google Docs.
 - `infographic.png`: Mẫu Infographic về "Lợi ích của công nghệ số".
 - `video.mp4`: Video ngắn (30 giây) giới thiệu ứng dụng công nghệ số.
